@@ -1,9 +1,20 @@
-# Youtube Channel
+# Welcome to my Youtube Channel
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUzX122_yansSytois8gZOA)
 
-Welcome to my Youtube Channel! This repository contains a collection of tutorials related to Molecular Dynamics, Molecular Modeling, Drug Designing, Quantum Transport and many more. <br>
-Channel: https://www.youtube.com/channel/UCUzX122_yansSytois8gZOA<br>
+### 🔝 Youtube Stats
+[![Pritam's youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCUzX122_yansSytois8gZOA)](https://www.youtube.com/channel/UCUzX122_yansSytois8gZOA)
+
+### Tutorials
+```
+Molecular Dynamics
+Molecular Modeling
+Drug Designing
+Quantum Transport
+Autodock
+Siesta
+GROMACS
+```
 
 ## Playlists
 ### GROMACS videos
