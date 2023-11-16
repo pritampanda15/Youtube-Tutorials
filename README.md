@@ -7,6 +7,9 @@
 
 ### Tutorials
 ```
+R for Bioinformatics
+Python for Bioinformatics
+Command line tools for Bioinformatics
 Molecular Dynamics
 Molecular Modeling
 Drug Designing
